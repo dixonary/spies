@@ -37,6 +37,10 @@ Interaction can be of any form - looking at something, talking to someone, et ce
 
 Completing Tasks is the only way to gain Spy points. Some Tasks are easy and some are harder; the harder the task, the more points are available for its completion.
 
+Tasks look like this:
+![](task-pots.png)
+![](task-general.png)
+
 On your turn you may request a new Task. You can have up to 2 Tasks in play at one time. If gaining a new Task sets you to 3, then you must discard one (which can be the one you just drew).
 
 You gain the points for completion as soon as a Task is completed. If completing a task puts you above 10 points, then you win the game.
