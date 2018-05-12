@@ -38,6 +38,7 @@ Interaction can be of any form - looking at something, talking to someone, et ce
 Completing Tasks is the only way to gain Spy points. Some Tasks are easy and some are harder; the harder the task, the more points are available for its completion.
 
 Tasks look like this:
+
 ![](task-pots.png)
 ![](task-general.png)
 
